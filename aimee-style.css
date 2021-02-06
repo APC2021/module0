@@ -1,0 +1,44 @@
+p {
+	color: black;
+	font 20px;
+	font-family: Verdana, sans-serif;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+.saymyname {
+	background: #D4E4F7;
+	text-align: center;
+}
+.together {
+	background-color: darkgrey;
+	margin: 50px;
+	margin-left: 500px
+	align-items: center;
+	font-size: 40px;
+	font-family: Georgia, serif;
+	color: #B85B14;
+	text-align: center;
+	padding: 20px;
+	border: 10px solid black;
+}
+h1 {
+	background-color: #B85B14;
+	text-align: center;
+	font-family: Georgia, serif;
+	font-size: 40px;
+	color: #165092;
+	padding: 10px;
+	text-align: center;
+}
+body {
+	background-color: #D4E4F7
+}
+/*unvisited link*/
+a:link {
+	color:#165092;
+}
+/*visited link*/
+a:visited {
+	color: #341C09;
+}
